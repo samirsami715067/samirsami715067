@@ -65,17 +65,12 @@ const samirSami = {
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirsami715067&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirsami715067&bg_color=2e3440&color=d8dee9&line=5c0000&point=d8dee9&area=true&area_color=5c0000&hide_border=true" alt="Contribution activity graph" />
-</p>
+
 
 ---
 
